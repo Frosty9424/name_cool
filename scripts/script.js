@@ -63,7 +63,7 @@ function nameCool(name) {
 
 function nameUp(name) {
 
-  let upName = text.toUpperCase;
+  let upName = name.toUpperCase;
 
   return "Your cool name in big form is " + upName + " Do you like it?"
 
